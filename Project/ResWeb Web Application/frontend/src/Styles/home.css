@@ -1,0 +1,30 @@
+/* Navbar */
+
+.nav-body{
+    background-color: #00A8FF;
+    width: 100%;
+}
+
+.branding{
+    
+    text-decoration: none;
+    color: white;
+    padding-top: 20;
+}
+
+.navbar-nav{
+    margin-left: 55%;
+}
+
+.image{
+    margin-left: 35%;
+    margin-top: 5%;
+}
+
+img{
+    width: 45%;
+}
+
+.content{
+    width: 75%;
+}
